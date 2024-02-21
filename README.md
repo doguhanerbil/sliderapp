@@ -1,2 +1,1 @@
-# sliderapp
-# sliderapp
+sliderapp with using Javascript
